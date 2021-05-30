@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~/images/a.jpg</ImageUrl>
+		<NavigateUrl>https://www.amazon.com</NavigateUrl>
+		<AlternateText>Shop now!</AlternateText>
+		<Impressions>50</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/images/b.jpg</ImageUrl>
+		<NavigateUrl>https://www.amazon.com</NavigateUrl>
+		<AlternateText>Shop now!</AlternateText>
+		<Impressions>50</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/images/c.jpg</ImageUrl>
+		<NavigateUrl>https://www.amazon.com</NavigateUrl>
+		<AlternateText>Shop now!</AlternateText>
+		<Impressions>50</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/images/d.jpg</ImageUrl>
+		<NavigateUrl>https://www.amazon.com</NavigateUrl>
+		<AlternateText>Shop now!</AlternateText>
+		<Impressions>50</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/images/e.jpg</ImageUrl>
+		<NavigateUrl>https://www.amazon.com</NavigateUrl>
+		<AlternateText>Shop now!</AlternateText>
+		<Impressions>50</Impressions>
+	</Ad>
+	
+	
+</Advertisements>
